@@ -1,0 +1,1 @@
+ C:\\Users\\paulk\\Programming\\Flutter\\synced_browser\\.dart_tool\\flutter_build\\1e92f4e965d58054df9fdc74fb522bc2\\native_assets.yaml: 
